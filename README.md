@@ -46,7 +46,8 @@ print("Your Public URL:", public_url)
 ---
 
 ## 📸 Demo
-![Demo Screenshot](screenshot.png)
+![Demo Screenshot]<img width="1076" height="785" alt="image" src="https://github.com/user-attachments/assets/e9472497-5ec2-4ac6-bbc3-1fb917e20a55" />
+
 
 ---
 
